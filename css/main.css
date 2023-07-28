@@ -200,7 +200,3 @@ footer a:not(.nav-link) {
     page-break-before: always;
   }
 }
-
-.cover.bg-image {
-  background-image: url('../images/background.png');
-}
